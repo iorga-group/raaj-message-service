@@ -1,0 +1,19 @@
+{
+  "name": "raaj-message-service",
+  "version": "1.2.0",
+  "homepage": "https://github.com/iorga-group/raaj-message-service",
+  "authors": [
+    "iORGA GROUP"
+  ],
+  "description": "Restless Architecture for AngularJS - Message Service",
+  "main": "./src/raaj-message-service.js",
+  "dependencies": {
+    "angular": "~1.2.15"
+  },
+  "keywords": [
+    "raaj",
+    "message",
+    "restless"
+  ],
+  "license": "LGPLv3"
+}
